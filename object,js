@@ -1,0 +1,18 @@
+const student = {
+    name: "Rasel Sharif",
+    id:"1771",
+    department: "IT",
+    address: "Badda",
+}
+
+student.department="Accounts";
+
+console.log(student.name);
+console.log(student.id);
+console.log(student.department);
+console.log(student.address);
+
+
+console.log(Object.keys(student));
+console.log(Object.values(student));
+console.log(student);

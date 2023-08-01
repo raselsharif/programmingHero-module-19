@@ -6,3 +6,7 @@ function square(num) {
 const inputNumber = 8;
 
 square(inputNumber);
+
+square(16);
+square(32);
+square(64);
